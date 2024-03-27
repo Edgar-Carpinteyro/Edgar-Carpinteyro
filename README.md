@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Github Fullstack Application](https://github.com/Edgar-Carpinteyro/github-fullstack-app)
 
-- 🌱 I’m currently learning **MongoDB, Express, Node, React**
+- 💻 My tech stack is **MongoDB, Express, Node, React**
 
-- 👨‍💻 All of my projects are available at [https://ec-portolio.onrender.com/](https://ec-portolio.onrender.com/)
+- 👨‍💻 Check out my portfolio at [https://ec-portolio.onrender.com/](https://ec-portolio.onrender.com/)
 
 - 💬 Ask me about **JavaScript, CSS, Bootstrap**
 

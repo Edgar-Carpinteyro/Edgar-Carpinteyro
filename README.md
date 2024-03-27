@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Express, Node, React**
 
-- 👨‍💻 All of my projects are available at [https://edgar-carpinteyro.github.io/portfolio/](https://edgar-carpinteyro.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://ec-portolio.onrender.com/](https://ec-portolio.onrender.com/)
 
 - 💬 Ask me about **JavaScript, CSS, Bootstrap**
 
